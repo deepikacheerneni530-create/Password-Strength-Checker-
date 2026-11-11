@@ -1,4 +1,4 @@
-%%writefile README.md
+ README.md
 
 # Password Strength Checker
 
